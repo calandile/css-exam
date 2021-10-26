@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+nav {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#nav-logo {
+    width: 100px;
+    float: left;
+}
+
+#nav-logo img {
+    width: inherit;
+    float: left;
+    margin: 30px;
+}
+
+#nav-menu {
+    float: right;
+}
+
+#nav-menu ul {
+    margin-top: 80px;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#nav-menu ul>li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
+
+a:hover {
+    color: rgb(209, 103, 138);
+}
+
+#middle-container {
+    background-image: url(img/happy-dog-flower-field-animal-white-pink-9F6P.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 180px;
+
+}
+
+#blokjes {
+    padding-top: 800px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.blokje {
+    width: 250px;
+    margin: 0 auto;
+    display: inline-block;
+    color: white;
+    padding: 30px;
+    text-align: left;
+}
+
+#step-1 {
+    background-color: rgb(153, 153, 153);
+}
+
+#step-2 {
+    background-color: rgb(104, 104, 104);
+}
+
+#step-3 {
+    background-color: rgb(172, 84, 113);
+}
+
+#step-4 {
+    background-color: rgb(207, 143, 165);
+    ;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
+#blokjes i {
+    font-size: 3rem;
+    color: white;
+}
+
+#step-1 i:hover {
+    color: rgb(100, 100, 100);
+}
+
+#step-2 i:hover {
+    color: rgb(75, 75, 75);
+}
+
+#step-3 i:hover {
+    color: rgb(124, 57, 79);
+}
+
+#step-4 i:hover {
+    color: rgb(172, 118, 137);
+}
