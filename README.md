@@ -1,4 +1,4 @@
-https://calandile.github.io/css_exam/
+https://calandile.github.io/css-exam/
 
 1. Use floats
 2. Sticky nav
